@@ -1,0 +1,12 @@
+main h1, p{
+    margin-top: 50px;
+    margin-bottom:30px;
+    text-align: center;
+  
+
+} 
+footer{
+    text-align: center;
+    background-color:#232B2B;
+    color: white;
+}
